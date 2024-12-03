@@ -7,7 +7,7 @@ function Header() {
     <header>
         <div className='flex'>
         <Link to="/"className='heading' onClick={()=>{window.scrollTo(0,0)}} >LearnHub</Link>
-        <a className='admin' href=''>Admin</a>
+        <Link className='admin' to="/form">Admin</Link>
 
         </div>
     </header>
