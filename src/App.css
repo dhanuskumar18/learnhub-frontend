@@ -12,7 +12,7 @@ header {
   background-color: rgba(0, 0, 0, 0.95);
 }
 .bgc {
-  background-image: url("../../src/assets/img/Background Hero.svg");
+  background-image: url("./Background Hero.svg");
   background-size: cover;
   background-position: center;
   height: 550px;
